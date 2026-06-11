@@ -139,7 +139,7 @@ AI Agency Builder | Ethical Hacker in Training | Computer Engineering Aspirant
 <a href="https://linkedin.com/in/YOURPROFILE">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/YOURHANDLE">
+<a href="https://twitter.com/@JonasTimp23825 ">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 </p>
